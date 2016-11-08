@@ -4,4 +4,4 @@ added in 11/07/2016
 
 Git is a distribute version control system
 
-this is edited by zkpk in CentOS in 11/08/2016 (well done)
+this is edited by zkpk in CentOS in 11/08/2016
